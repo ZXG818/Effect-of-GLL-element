@@ -1,1 +1,1 @@
-The raw dataset of the research "Effect of Gauss-Lobatto-Legendre element on turbulence statistics and spectra".
+This repo presents the raw dataset used in the research "Effect of Gauss-Lobatto-Legendre element on turbulence statistics and spectra".
